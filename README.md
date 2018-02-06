@@ -1,5 +1,4 @@
-# preview
-preview files
+# generate preview thumbnail image of 450 type of files
 
 PHP rewrite of this node.js project (https://github.com/maxlabelle/filepreview ).
 
