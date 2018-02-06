@@ -1,7 +1,7 @@
 # preview
 preview files
 
-PHP rewrite of this project (https://github.com/maxlabelle/filepreview ).
+PHP rewrite of this node.js project (https://github.com/maxlabelle/filepreview ).
 
 
 Install Third Party Software on CentOS
