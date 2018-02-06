@@ -10,9 +10,13 @@ Install Third Party Software on CentOS
 1. Install FFmpeg
 -----------------------------------------------------------
 https://www.vultr.com/docs/how-to-install-ffmpeg-on-centos
+
 Step 1: update the system
+
 sudo yum install epel-release -y
+
 sudo yum update -y
+
 sudo shutdown -r now
 
 Step 2: Install the Nux Dextop YUM repo
